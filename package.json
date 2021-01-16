@@ -1,0 +1,14 @@
+{
+  "name": "modern-portfolio-brad",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website -Brad",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Trigger labs",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
